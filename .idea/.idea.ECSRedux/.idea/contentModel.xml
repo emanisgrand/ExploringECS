@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tenhi\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tenhi\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_ECSRedux.-42162948.00" t="ExcludeRecursive" />
+    <e p="X:\ECSRedux" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Components" t="Include">
+            <e p="Enemy.cs" t="Include" />
+            <e p="Movable.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+          </e>
+          <e p="Systems" t="Include">
+            <e p="EnemySystem.cs" t="Include" />
+            <e p="MovableSystem.cs" t="Include" />
+            <e p="PlayerSystem.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ECSRedux.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
