@@ -4,6 +4,7 @@ using Unity.Entities;
 using Unity.Mathematics;
 using Unity.Transforms;
 using Unity.Physics;
+using Unity.Physics.Extensions;
 using Unity.Physics.Systems;
 using UnityEngine;
 
@@ -47,11 +48,10 @@ public class EnemySystem : SystemBase
     }
     private struct MovementRaycast
     {
-        [ReadOnly] public PhysicsWorld physicsWorld;
+      [ReadOnly] public PhysicsWorld physicsWorld;
 
         public bool CheckRay(float3 position, float3 direction, float3 currentDirection)
         {
-
             if (direction.Equals(-currentDirection)) return true;
             
             var ray = new RaycastInput()

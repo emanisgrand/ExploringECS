@@ -9,6 +9,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.11.2-preview.1/Unity.Entities/IJobChunk.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -16,8 +17,10 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Systems/MovableSystem.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Components/Enemy.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Components/Player.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Systems/EnemySystem.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Systems/PlayerSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Systems/EnemySystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/CollisionBuffer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Systems/CollisionSystem.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1nsuMrlQ8GXogBuh4VdtHICAcgz" />
@@ -64,6 +67,7 @@
       <workItem from="1612191099133" duration="8973000" />
       <workItem from="1612218693589" duration="4283000" />
       <workItem from="1612406986819" duration="177000" />
+      <workItem from="1612407192881" duration="9140000" />
     </task>
     <servers />
   </component>

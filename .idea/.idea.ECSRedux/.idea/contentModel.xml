@@ -8,11 +8,13 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Components" t="Include">
+            <e p="CollisionBuffer.cs" t="Include" />
             <e p="Enemy.cs" t="Include" />
             <e p="Movable.cs" t="Include" />
             <e p="Player.cs" t="Include" />
           </e>
           <e p="Systems" t="Include">
+            <e p="CollisionSystem.cs" t="Include" />
             <e p="EnemySystem.cs" t="Include" />
             <e p="MovableSystem.cs" t="Include" />
             <e p="PlayerSystem.cs" t="Include" />
